@@ -182,9 +182,11 @@ section h2 {
 }
 
 section.success {
-    color: #fff;
-    background: #18bc9c;
+    color: #2c3e50;
+    background-image: url("Pattern.png");
+    background-color: #18bc9c;
 }
+
 section.success2 {
     color: #2c3e50;
     /* background-image: url("Pattern.png"); */
