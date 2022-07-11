@@ -58,7 +58,7 @@ hr.star-primary:after {
 }
 
 hr.star-light {
-    border-color: #fff;
+    border-color: #2c3e50;
 }
 
 hr.star-light:after {
@@ -81,7 +81,7 @@ hr.star-primary:after {
 
 header {
     text-align: center;
-    color: #fff;
+    color: #2c3e50;
     background-image: url("Pattern.png");
     background-color: #18bc9c;
 }
@@ -181,14 +181,14 @@ section h2 {
 }
 
 section.success {
-    color: #fff;
+    color: #2c3e50;
     background-image: url("Pattern.png");
     background-color: #18bc9c ;
     /* background: #18bc9c; */
 }
 
 section.success2 {
-    color: #18bc9c;
+    color: #2c3e50;
     background: #fff;
 }
 
